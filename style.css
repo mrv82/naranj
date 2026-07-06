@@ -23,8 +23,13 @@
   --cream: #F0DCC8;
 
   /* Dark Theme Base */
+<<<<<<< HEAD
+  --dark: #2e0202;
+  --dark-2: #3d030336;
+=======
   --dark: #0C0A0E;
   --dark-2: #120F15;
+>>>>>>> 12d846cf37590974546987266abcb0d453bfbc0d
   --dark-3: #1A161E;
   --dark-4: #231E28;
   --gray: #8A8494;
